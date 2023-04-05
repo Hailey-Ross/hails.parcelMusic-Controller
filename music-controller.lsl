@@ -1,4 +1,4 @@
-integer group_only = TRUE;
+integer group_only = TRUE; //Change to false for OwnerOnly control
 
 string  note_name = "stations";
 integer note_line;
