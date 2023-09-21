@@ -1,4 +1,4 @@
-# LSL_ParcelMusic-Controller
+# ParcelMusic-Controller
 Linden Scripting Language Parcel Music Controller script
 
 
