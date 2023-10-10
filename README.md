@@ -10,3 +10,6 @@ For example, with one station per line
 FirstStream;http://fakestream.shoutcast.com:20420/  
 AnotherStation;http://fakestreamurl.com:9001/  
 ```
+
+## Requirements
+Object/Script must be SHARED/DEEDED to Group Owned Land
